@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 820" role="img" aria-labelledby="title desc">
+  <title id="title">BB Powder product bottle</title>
+  <desc id="desc">Stylized product bottle for BB Powder used as a replaceable local artwork asset.</desc>
+  <defs>
+    <linearGradient id="cap" x1="0" x2="1"><stop offset="0" stop-color="#f7f6ee"/><stop offset="0.55" stop-color="#ffffff"/><stop offset="1" stop-color="#dad9d1"/></linearGradient>
+    <linearGradient id="bottle" x1="0" x2="1"><stop offset="0" stop-color="#f1f0e9"/><stop offset="0.5" stop-color="#ffffff"/><stop offset="1" stop-color="#d8d7d0"/></linearGradient>
+    <linearGradient id="label" x1="0" x2="1"><stop offset="0" stop-color="#0a0b0b"/><stop offset="1" stop-color="#252525"/></linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="24" stdDeviation="20" flood-opacity=".22"/></filter>
+  </defs>
+  <ellipse cx="350" cy="760" rx="205" ry="28" fill="#6d0a37" opacity=".14"/>
+  <g filter="url(#shadow)">
+    <rect x="250" y="105" width="200" height="72" rx="24" fill="url(#cap)"/>
+    <rect x="230" y="156" width="240" height="500" rx="74" fill="url(#bottle)" stroke="#d5d4cb" stroke-width="3"/>
+    <rect x="247" y="250" width="206" height="300" rx="17" fill="url(#label)"/>
+    <rect x="261" y="263" width="178" height="40" rx="8" fill="#080808" stroke="#7f9b34" stroke-width="3"/>
+    <text x="272" y="292" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="24" fill="#eef69a">BB</text>
+    <text x="318" y="292" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="23" fill="#e9e9e2">POWDER</text>
+    <text x="350" y="332" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2" fill="#fff">PLANT-BASED NUTRITION</text>
+    <rect x="279" y="355" width="142" height="86" rx="17" fill="#121212" stroke="#7f9b34" stroke-width="2"/>
+    <circle cx="350" cy="398" r="29" fill="#101010" stroke="#8cab36" stroke-width="3"/>
+    <circle cx="337" cy="386" r="4" fill="#252525"/>
+    <circle cx="359" cy="380" r="4" fill="#303030"/>
+    <circle cx="366" cy="404" r="4" fill="#232323"/>
+    <circle cx="344" cy="414" r="4" fill="#232323"/>
+    <text x="350" y="464" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#d7d7d1">DAILY NUTRITION</text>
+    <text x="350" y="500" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#8cab36">BB POWDER</text>
+    <rect x="279" y="522" width="142" height="13" rx="6" fill="#8adbcf" opacity=".95"/>
+  </g>
+</svg>

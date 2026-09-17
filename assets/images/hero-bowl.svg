@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-labelledby="title desc">
+  <title id="title">Nutrition bowl artwork</title>
+  <desc id="desc">Soft editorial illustration of a nourishing bowl and ingredients.</desc>
+  <defs>
+    <radialGradient id="bg"><stop offset="0" stop-color="#fff8df"/><stop offset="1" stop-color="#f1e2c2"/></radialGradient>
+    <linearGradient id="bowl" x1="0" x2="1"><stop offset="0" stop-color="#f6eee3"/><stop offset="1" stop-color="#c7794a"/></linearGradient>
+  </defs>
+  <rect width="900" height="700" rx="48" fill="url(#bg)"/>
+  <circle cx="168" cy="124" r="90" fill="#6d0a37" opacity=".08"/>
+  <circle cx="720" cy="165" r="116" fill="#ff482f" opacity=".08"/>
+  <g transform="translate(120 130)">
+    <ellipse cx="320" cy="390" rx="265" ry="80" fill="#5d0931" opacity=".13"/>
+    <path d="M120 250 C120 195 560 195 560 250 L528 424 C518 485 162 485 152 424Z" fill="url(#bowl)"/>
+    <ellipse cx="340" cy="250" rx="220" ry="90" fill="#f1dfbe"/>
+    <ellipse cx="340" cy="248" rx="195" ry="66" fill="#8f4a2f"/>
+    <ellipse cx="300" cy="250" rx="142" ry="45" fill="#eadbb9" opacity=".9"/>
+    <circle cx="246" cy="232" r="23" fill="#d88736"/>
+    <circle cx="288" cy="221" r="19" fill="#e2b34f"/>
+    <circle cx="343" cy="242" r="25" fill="#7a9a3c"/>
+    <circle cx="394" cy="224" r="22" fill="#bc543d"/>
+    <circle cx="447" cy="242" r="20" fill="#e7a03f"/>
+    <path d="M315 148 C305 110 322 75 354 58 C374 46 391 52 401 66 C377 74 362 95 354 131Z" fill="#6f8d42"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#6d0a37">
+    <text x="68" y="610" font-size="22" font-weight="700" letter-spacing="4">NOURISH • MOVE • THRIVE</text>
+  </g>
+</svg>
